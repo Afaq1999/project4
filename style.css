@@ -152,7 +152,7 @@ hr{
 
 
 .min{
-    
+    display: flex;
     overflow-y: auto;
 }
 
